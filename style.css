@@ -81,15 +81,27 @@ p {
     margin-left: 500px;
 }
 
-.P1I1{
+.Project1_Image1{
     margin-left: 60px;
     height: 150px;
 }
 
-.P1I2{
+.Project1_Image2{
     margin-left: 300px;
     display: flex;
     height: 500px;
+    border: solid 10px;
+    border-color: #5E3B38;
+    border-radius: 50px;
+}
+.Project2_Image1{
+    margin-left: 60px;
+    height: 150px;
+}
+.Project2_Image2{
+    margin-left: 150px;
+    display: flex;
+    height: 400px;
     border: solid 10px;
     border-color: #5E3B38;
     border-radius: 50px;
